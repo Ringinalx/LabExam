@@ -22,6 +22,6 @@ public class Employee {
     }
 
     public Object returnInput(int i, boolean b, boolean b1, boolean b2) {
-        return null;
+        return 0;
     }
 }
